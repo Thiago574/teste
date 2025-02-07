@@ -1,1 +1,11 @@
-onigcrcghorghghfioghugh
+git clone https://github.com/Thiago574/teste.git
+git remote add origin https://github.com/Thiago574/teste.git
+git push -u origin main
+git remote -v
+git status
+git add .
+git status
+git commit -m"nome_para_o_commit"
+git status
+git push -u origin main
+
